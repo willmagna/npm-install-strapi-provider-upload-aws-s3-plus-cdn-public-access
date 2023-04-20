@@ -44,7 +44,6 @@ The  **allowPublicAccess**  variable needs to be set to true if your Cloudfront 
     AWS_ACCESS_KEY_ID=xxxxxxxxxxxxx
     AWS_ACCESS_SECRET=xxxxxxxxxxxxx
     AWS_ENDPOINT=nyc3.digitaloceanspaces.com
-    AWS_CDN_ENDPOINT=nyc3.cdn.digitaloceanspaces.com
     AWS_REGION=us-east-1
     AWS_BUCKET=bucket-name-you-created
     CDN_URL=https://bucket-name-you-created.nyc3.cdn.digitaloceanspaces.com/
